@@ -1,0 +1,9 @@
+2025-01-09 15:44:10,740 - INFO - Extracted PDF Text: Invoice Number: 12345
+Date: 2023-12-20
+Amount: $500.00
+Random Data: ABC123XYZ...
+2025-01-09 15:44:10,742 - INFO - Extracted DOCX Text: Purchase Order
+Purchase Order: PO-67890
+Customer: John Doe
+Total: $750.00
+Random Data: XYZ789ABC...

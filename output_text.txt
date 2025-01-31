@@ -1,0 +1,5 @@
+Purchase Order
+Purchase Order: PO-67890
+Customer: John Doe
+Total: $750.00
+Random Data: XYZ789ABC
